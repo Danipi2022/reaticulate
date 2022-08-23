@@ -194,11 +194,11 @@ Bank * * AI NCL Timpani
 //! g="Audio Imperia/Nucleus/06 Choir" n="01 5 Sopranos"
 //! id=8b18fcd9-0777-4e28-add8-084ed358e5b4
 Bank * * AI NCL 5 Sopranos
-//! c=long i=note-whole o=note:12
-1 Sustained Aah
 //! c=long i=note-whole o=note:13
+1 Sustained Aah
+//! c=long i=note-whole o=note:14
 2 Sustained Ooh
-//! c=short i=staccato o=note:14
+//! c=short i=staccato o=note:15
 3 Staccatissimo Phrases
 
 //! g="Audio Imperia/Nucleus/06 Choir" n="02 5 Altos"
